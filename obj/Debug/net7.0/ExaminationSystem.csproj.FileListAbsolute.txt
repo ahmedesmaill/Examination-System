@@ -1,0 +1,14 @@
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.exe
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.deps.json
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.runtimeconfig.json
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.dll
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\bin\Debug\net7.0\ExaminationSystem.pdb
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.dll
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\refint\ExaminationSystem.dll
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.pdb
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\al873\OneDrive\Desktop\Examination-System-Console-App-master\ExaminationSystem\obj\Debug\net7.0\ref\ExaminationSystem.dll
